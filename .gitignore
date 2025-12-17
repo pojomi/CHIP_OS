@@ -1,0 +1,13 @@
+# Build files
+build/
+*.o
+chip_os
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
